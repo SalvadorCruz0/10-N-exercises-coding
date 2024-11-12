@@ -1,0 +1,13 @@
+﻿"Carros.exe" (Win32): Carregado "C:\Users\aluno\source\repos\Carros\x64\Debug\Carros.exe". Símbolos carregados.
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\ntdll.dll". 
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\kernel32.dll". 
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\KernelBase.dll". 
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\msvcp140d.dll". 
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140_1d.dll". 
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140d.dll". 
+"Carros.exe" (Win32): Carregado "C:\Windows\System32\ucrtbased.dll". 
+O thread 3092 foi fechado com o código 0 (0x0).
+O thread 8992 foi fechado com o código 3221225786 (0xc000013a).
+O thread 2820 foi fechado com o código 3221225786 (0xc000013a).
+O thread 216 foi fechado com o código 3221225786 (0xc000013a).
+O programa "[18424] Carros.exe" foi fechado com o código 3221225786 (0xc000013a).
